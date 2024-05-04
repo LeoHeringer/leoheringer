@@ -24,4 +24,5 @@ const Léo = {
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/lh.leoh?igsh=MXNiZnJnamdvcXh5aQ==)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/leonardo-heringer-17b412167/)
+[![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@leoheringer_?_t=8m3xlelmAHF&_r=1)
 
