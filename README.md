@@ -1,6 +1,6 @@
 ## Portfolio:
-- [Python - Cadastro](https://github.com/LeoHeringer/Cadastro)
 - [Python - Catalog](https://github.com/LeoHeringer/Catalog)
+- [Python - Cadastro](https://github.com/LeoHeringer/Cadastro)
 - [Python - API](https://github.com/LeoHeringer/API)
 
 <!-- GIF -->
