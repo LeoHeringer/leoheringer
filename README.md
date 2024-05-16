@@ -8,7 +8,7 @@
 
   
 ## Portfolio:
-- [Python - Catalog](https://github.com/LeoHeringer/Catalog)
+- [Python - Book Catalog API](https://github.com/LeoHeringer/Catalog)
 - [Python - Cadastro](https://github.com/LeoHeringer/Cadastro)
 - [Python - API](https://github.com/LeoHeringer/API)
 
