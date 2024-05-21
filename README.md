@@ -16,7 +16,7 @@
 ```javascript
 const Léo = {
   code: [Python, PHP, HTML, CSS],
-  tools: [Mysql, Git, Code],
+  tools: [Mysql, Git, VSCode],
 }
 ```
 
