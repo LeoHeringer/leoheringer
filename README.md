@@ -21,4 +21,9 @@ const Léo = {
 
 ![Leo 's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoheringer&show_icons=true&theme=dark) ![giphy1-ezgif com-crop (4)](https://github.com/LeoHeringer/leoheringer/assets/69641220/0d0b0941-7e9e-4488-a13b-a09128204d20)
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,mysql,postman)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,mysql,postman" />
+  </a>
+</p>
