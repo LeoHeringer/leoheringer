@@ -23,6 +23,6 @@ const Léo = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,html,css,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=python,django,react,html,css,mysql,postman" />
   </a>
 </p>
