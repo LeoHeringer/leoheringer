@@ -7,9 +7,8 @@
 
   
 ## Portfolio:
-- [Python - Book Catalog](https://github.com/LeoHeringer/Book_Catalog)
-- [Python - Book Catalog API](https://github.com/LeoHeringer/Catalog)
-- [Python - Cadastro](https://github.com/LeoHeringer/Cadastro)
+- [Book Catalog](https://github.com/LeoHeringer/Book_Catalog)
+- [Book Catalog API](https://github.com/LeoHeringer/Catalog)
 
 
 ```javascript
