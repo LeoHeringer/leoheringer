@@ -13,7 +13,7 @@
 
 ```javascript
 const Léo = {
-  code: ["Python", "PHP", "HTML", "CSS", "React"],
+  code: ["Python", "React", "PHP", "HTML", "CSS"],
   tools: ["Mysql", "Git", "VSCode"],
 };
 
