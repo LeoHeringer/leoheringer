@@ -9,7 +9,6 @@
 ## Portfolio:
 - [book-catalog-frontend](https://github.com/LeoHeringer/book-catalog-frontend)
 - [book-catalog-API](https://github.com/LeoHeringer/Catalog)
-- [user-registration-API](https://github.com/LeoHeringer/user-registration-API)
 
 ```javascript
 const Léo = {
