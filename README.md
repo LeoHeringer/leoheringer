@@ -5,10 +5,6 @@
 
 
 
-  
-## Portfolio:
-- [book-catalog-frontend](https://github.com/LeoHeringer/book-catalog-frontend)
-- [book-catalog-API](https://github.com/LeoHeringer/Catalog)
 
 ```javascript
 const Léo = {
