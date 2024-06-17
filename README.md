@@ -15,7 +15,7 @@ const Léo = {
 
 ```
 
-![Leo 's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoheringer&show_icons=true&theme=dark) ![giphy1-ezgif com-crop (4)](https://github.com/LeoHeringer/leoheringer/assets/69641220/0d0b0941-7e9e-4488-a13b-a09128204d20)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoHeringer&theme=tokyonight" alt="Leo" /> ![giphy1-ezgif com-crop (4)](https://github.com/LeoHeringer/leoheringer/assets/69641220/0d0b0941-7e9e-4488-a13b-a09128204d20)
 
 
 <p align="center">
