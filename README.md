@@ -8,7 +8,7 @@
 
 ```javascript
 const Léo = {
-  code: ["Python", "React", "PHP", "HTML", "CSS"],
+  code: ["Python", "React", "HTML", "CSS"],
   tools: ["Mysql", "Git", "VSCode", "Oracle SQL", "Postman"],
 };
 
