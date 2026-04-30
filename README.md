@@ -8,7 +8,7 @@
 
 ```javascript
 const Léo = {
-  code: ["Python", "React", "HTML", "CSS"],
+  code: ["JAva","Python", "React", "HTML", "CSS"],
   tools: ["Mysql", "Git", "VSCode", "Oracle SQL", "Postman"],
  };
 
@@ -20,7 +20,7 @@ const Léo = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,react,html,css,mysql,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=python,java,django,react,html,css,mysql,vscode,postman" />
   </a>
 </p>
   
